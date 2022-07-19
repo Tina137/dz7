@@ -1,0 +1,37 @@
+body {
+    background-color:#eff8ff ;
+}
+.div1 {
+    width: 350px;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.img1 {
+    width: 350px;
+}
+h1 {
+    color: #1e293f;
+    font-family:Arimo ;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.div2 {
+    padding: 15px;
+}
+span {
+    color: #dc437c;
+    font-family:Arimo ;
+}
+p {
+    font-family:Arimo ;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 24px;
+}
+.link {
+    text-decoration: none;
+    color: #faf1f2;
+    font-family:Arimo ;
+    padding: 10px;
+    background-color: #ffc008;
+}
